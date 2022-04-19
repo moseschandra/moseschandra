@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moseschandra
+- 👋 Hi, I’m Moses
 - 👀 I’m interested in teaching
 - 🌱 I’m currently learning MS Power BI
 - 💞️ I’m looking to collaborate on Power BI benefits
